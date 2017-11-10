@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to My FinalFake Project
 
-You can use the [editor on GitHub](https://github.com/jessiesilver/finalfake/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is my final, because I need to practice this s&^t.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Map
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+### Chart
+
+
 
 ```markdown
 Syntax highlighted code block
