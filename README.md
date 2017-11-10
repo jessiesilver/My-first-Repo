@@ -26,8 +26,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-<iframe width="100%" height="520" frameborder="0" src="https://jessiesilver.carto.com/builder/1915d5b0-5eb5-42d2-a4b2-5c2c14c16cbc/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-[Link](url) and ![Image](src)
+[Link](https://jessiesilver.carto.com/builder/1915d5b0-5eb5-42d2-a4b2-5c2c14c16cbc/embed) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
